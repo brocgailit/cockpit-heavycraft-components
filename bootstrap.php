@@ -1,7 +1,4 @@
 <?php
-
-require __DIR__ . '/vendor/autoload.php';
-
 $name = 'HeavyCraftComponents';
 
 if (!isset($app['modules'][strtolower($name)])) {
