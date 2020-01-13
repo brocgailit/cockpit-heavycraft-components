@@ -2322,68 +2322,6 @@
         ],
         "group": "Info"
     },
-    "productSchedule": {
-        "label": "Product Schedule",
-        "dialog": "normal",
-        "children": false,
-        "icon": "data:image/svg+xml,%3Csvg aria-hidden='true' focusable='false' data-prefix='fal' data-icon='calendar-week' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512' class='svg-inline--fa fa-calendar-week fa-w-14 fa-9x'%3E%3Cpath fill='currentColor' d='M400 64h-48V8c0-4.4-3.6-8-8-8h-16c-4.4 0-8 3.6-8 8v56H128V8c0-4.4-3.6-8-8-8h-16c-4.4 0-8 3.6-8 8v56H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm16 400c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V192h384v272zm0-304H32v-48c0-8.8 7.2-16 16-16h352c8.8 0 16 7.2 16 16v48zM80 352h288c8.8 0 16-7.2 16-16v-96c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v96c0 8.8 7.2 16 16 16zm16-96h256v64H96v-64z' class=''%3E%3C/path%3E%3C/svg%3E",
-        "fields": [
-            {
-                "name": "products",
-                "label": "",
-                "type": "collectionlink",
-                "default": "",
-                "info": "",
-                "group": "",
-                "localize": false,
-                "options": {
-                    "link": "products",
-                    "display": "name",
-                    "multiple": true
-                },
-                "width": "1-1",
-                "lst": true,
-                "acl": [],
-                "required": true
-            },
-            {
-                "name": "weeks",
-                "label": "Weeks",
-                "type": "text",
-                "default": "",
-                "info": "How far out should the schedule go?",
-                "group": "",
-                "localize": false,
-                "options": {
-                    "type": "number",
-                    "min": 1,
-                    "max": 52,
-                    "default": 6
-                },
-                "width": "1-1",
-                "lst": true,
-                "acl": []
-            },
-            {
-                "name": "limit",
-                "label": "Limit Results",
-                "type": "text",
-                "default": "",
-                "info": "",
-                "group": "",
-                "localize": false,
-                "options": {
-                    "type": "number",
-                    "min": 0,
-                    "default": 100
-                },
-                "width": "1-1",
-                "lst": true,
-                "acl": []
-            }
-        ],
-        "group": "Products"
-    },
     "people": {
         "label": "Staff List",
         "dialog": "normal",
