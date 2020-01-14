@@ -1772,11 +1772,13 @@
                 "group": "",
                 "localize": false,
                 "options": {
+                    "display": "display",
                     "field": {
                         "type": "set",
                         "name": "icon",
                         "label": "Icon",
                         "options": {
+                            "display": "name",
                             "limit": 4,
                             "fields": [
                                 {
