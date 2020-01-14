@@ -247,6 +247,7 @@
                                         "label": "Icon",
                                         "options": {
                                             "options": {
+                                                "award": "Award",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -257,6 +258,7 @@
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
+                                                "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "shemagh": "Shemagh Face Covering (custom)",
@@ -345,6 +347,7 @@
                                         "label": "Icon",
                                         "options": {
                                             "options": {
+                                                "award": "Award",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -355,6 +358,7 @@
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
+                                                "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "shemagh": "Shemagh Face Covering (custom)",
@@ -432,6 +436,7 @@
                                         "label": "Icon",
                                         "options": {
                                             "options": {
+                                                "award": "Award",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -442,6 +447,7 @@
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
+                                                "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "shemagh": "Shemagh Face Covering (custom)",
@@ -696,6 +702,7 @@
                                         "label": "Icon",
                                         "options": {
                                             "options": {
+                                                "award": "Award",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -706,6 +713,7 @@
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
+                                                "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "shemagh": "Shemagh Face Covering (custom)",
@@ -776,6 +784,7 @@
                                         "label": "Icon",
                                         "options": {
                                             "options": {
+                                                "award": "Award",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -786,6 +795,7 @@
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
+                                                "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "shemagh": "Shemagh Face Covering (custom)",
@@ -1792,6 +1802,7 @@
                                     "label": "Icon",
                                     "options": {
                                         "options": {
+                                            "award": "Award",
                                             "envelope": "Envelope",
                                             "user": "Person",
                                             "users": "People",
@@ -1802,6 +1813,7 @@
                                             "clock": "Clock",
                                             "hard-hat": "Helmet",
                                             "phone": "Phone",
+                                            "puzzle-piece": "Puzzle Piece",
                                             "money-bill-wave": "Money",
                                             "route": "Route",
                                             "shemagh": "Shemagh Face Covering (custom)",
@@ -2030,6 +2042,7 @@
                 "localize": false,
                 "options": {
                     "options": {
+                        "award": "Award",
                         "envelope": "Envelope",
                         "user": "Person",
                         "users": "People",
@@ -2040,6 +2053,7 @@
                         "clock": "Clock",
                         "hard-hat": "Helmet",
                         "phone": "Phone",
+                        "puzzle-piece": "Puzzle Piece",
                         "money-bill-wave": "Money",
                         "route": "Route",
                         "shemagh": "Shemagh Face Covering (custom)",
@@ -2091,6 +2105,7 @@
                             "type": "select",
                             "options": {
                                 "options": {
+                                    "award": "Award",
                                     "envelope": "Envelope",
                                     "user": "Person",
                                     "users": "People",
@@ -2101,6 +2116,7 @@
                                     "clock": "Clock",
                                     "hard-hat": "Helmet",
                                     "phone": "Phone",
+                                    "puzzle-piece": "Puzzle Piece",
                                     "money-bill-wave": "Money",
                                     "route": "Route",
                                     "shemagh": "Shemagh Face Covering (custom)",
@@ -2156,6 +2172,7 @@
                             "type": "select",
                             "options": {
                                 "options": {
+                                    "award": "Award",
                                     "envelope": "Envelope",
                                     "user": "Person",
                                     "users": "People",
@@ -2166,6 +2183,7 @@
                                     "clock": "Clock",
                                     "hard-hat": "Helmet",
                                     "phone": "Phone",
+                                    "puzzle-piece": "Puzzle Piece",
                                     "money-bill-wave": "Money",
                                     "route": "Route",
                                     "shemagh": "Shemagh Face Covering (custom)",
