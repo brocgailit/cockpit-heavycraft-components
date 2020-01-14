@@ -1113,8 +1113,8 @@
                         "type": "set",
                         "name": "icon",
                         "label": "icon",
+                        "display": "name",
                         "options": {
-                            "display": "name",
                             "fields": [
                                 {
                                     "type": "text",
@@ -1771,7 +1771,6 @@
                 "info": "",
                 "group": "",
                 "localize": false,
-                "display": "display",
                 "options": {
                     "field": {
                         "type": "set",
