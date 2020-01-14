@@ -1771,8 +1771,8 @@
                 "info": "",
                 "group": "",
                 "localize": false,
+                "display": "display",
                 "options": {
-                    "display": "display",
                     "field": {
                         "type": "set",
                         "name": "icon",
