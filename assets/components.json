@@ -1113,8 +1113,8 @@
                         "type": "set",
                         "name": "icon",
                         "label": "icon",
-                        "display": "name",
                         "options": {
+                            "display": "name",
                             "fields": [
                                 {
                                     "type": "text",
