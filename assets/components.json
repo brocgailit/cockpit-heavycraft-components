@@ -2082,6 +2082,25 @@
                             "name": "description",
                             "label": "Description",
                             "type": "wysiwyg"
+                        },
+                        {
+                            "name": "icon",
+                            "label": "Icon",
+                            "type": "select",
+                            "options": {
+                                "options": {
+                                    "envelope": "Envelope",
+                                    "user": "Person",
+                                    "users": "People",
+                                    "briefcase": "Business",
+                                    "calendar": "Calendar",
+                                    "flag-checkered": "Checkered Flag",
+                                    "clock": "Clock",
+                                    "phone": "Phone",
+                                    "money-bill-wave": "Money",
+                                    "route": "Route"
+                                }
+                            }
                         }
                     ]
                 },
