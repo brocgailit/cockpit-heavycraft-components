@@ -251,13 +251,17 @@
                                                 "user": "Person",
                                                 "users": "People",
                                                 "briefcase": "Business",
+                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
                                                 "flag-checkered": "Checkered Flag",
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
                                                 "money-bill-wave": "Money",
-                                                "route": "Route"
+                                                "route": "Route",
+                                                "shemagh": "Shemagh Face Covering (custom)",
+                                                "ticket-alt": "Ticket",
+                                                "water-bottle": "Water Bottle (custom)"
                                             }
                                         }
                                     }
@@ -345,13 +349,17 @@
                                                 "user": "Person",
                                                 "users": "People",
                                                 "briefcase": "Business",
+                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
                                                 "flag-checkered": "Checkered Flag",
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
                                                 "money-bill-wave": "Money",
-                                                "route": "Route"
+                                                "route": "Route",
+                                                "shemagh": "Shemagh Face Covering (custom)",
+                                                "ticket-alt": "Ticket",
+                                                "water-bottle": "Water Bottle (custom)"
                                             }
                                         }
                                     }
@@ -428,13 +436,17 @@
                                                 "user": "Person",
                                                 "users": "People",
                                                 "briefcase": "Business",
+                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
                                                 "flag-checkered": "Checkered Flag",
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
                                                 "money-bill-wave": "Money",
-                                                "route": "Route"
+                                                "route": "Route",
+                                                "shemagh": "Shemagh Face Covering (custom)",
+                                                "ticket-alt": "Ticket",
+                                                "water-bottle": "Water Bottle (custom)"
                                             }
                                         }
                                     },
@@ -688,13 +700,17 @@
                                                 "user": "Person",
                                                 "users": "People",
                                                 "briefcase": "Business",
+                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
                                                 "flag-checkered": "Checkered Flag",
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
                                                 "money-bill-wave": "Money",
-                                                "route": "Route"
+                                                "route": "Route",
+                                                "shemagh": "Shemagh Face Covering (custom)",
+                                                "ticket-alt": "Ticket",
+                                                "water-bottle": "Water Bottle (custom)"
                                             }
                                         }
                                     }
@@ -764,13 +780,17 @@
                                                 "user": "Person",
                                                 "users": "People",
                                                 "briefcase": "Business",
+                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
                                                 "flag-checkered": "Checkered Flag",
                                                 "clock": "Clock",
                                                 "hard-hat": "Helmet",
                                                 "phone": "Phone",
                                                 "money-bill-wave": "Money",
-                                                "route": "Route"
+                                                "route": "Route",
+                                                "shemagh": "Shemagh Face Covering (custom)",
+                                                "ticket-alt": "Ticket",
+                                                "water-bottle": "Water Bottle (custom)"
                                             }
                                         }
                                     }
@@ -1982,13 +2002,17 @@
                         "user": "Person",
                         "users": "People",
                         "briefcase": "Business",
+                        "camera-retro": "Camera",
                         "calendar": "Calendar",
                         "flag-checkered": "Checkered Flag",
                         "clock": "Clock",
                         "hard-hat": "Helmet",
                         "phone": "Phone",
                         "money-bill-wave": "Money",
-                        "route": "Route"
+                        "route": "Route",
+                        "shemagh": "Shemagh Face Covering (custom)",
+                        "ticket-alt": "Ticket",
+                        "water-bottle": "Water Bottle (custom)"
                     }
                 },
                 "width": "1-1",
@@ -2039,13 +2063,17 @@
                                     "user": "Person",
                                     "users": "People",
                                     "briefcase": "Business",
+                                    "camera-retro": "Camera",
                                     "calendar": "Calendar",
                                     "flag-checkered": "Checkered Flag",
                                     "clock": "Clock",
                                     "hard-hat": "Helmet",
                                     "phone": "Phone",
                                     "money-bill-wave": "Money",
-                                    "route": "Route"
+                                    "route": "Route",
+                                    "shemagh": "Shemagh Face Covering (custom)",
+                                    "ticket-alt": "Ticket",
+                                    "water-bottle": "Water Bottle (custom)"
                                 }
                             }
                         }
@@ -2100,13 +2128,17 @@
                                     "user": "Person",
                                     "users": "People",
                                     "briefcase": "Business",
+                                    "camera-retro": "Camera",
                                     "calendar": "Calendar",
                                     "flag-checkered": "Checkered Flag",
                                     "clock": "Clock",
                                     "hard-hat": "Helmet",
                                     "phone": "Phone",
                                     "money-bill-wave": "Money",
-                                    "route": "Route"
+                                    "route": "Route",
+                                    "shemagh": "Shemagh Face Covering (custom)",
+                                    "ticket-alt": "Ticket",
+                                    "water-bottle": "Water Bottle (custom)"
                                 }
                             }
                         }
