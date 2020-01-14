@@ -1954,6 +1954,31 @@
                 "acl": []
             },
             {
+                "name": "iconFinished",
+                "label": "Finish Icon",
+                "type": "select",
+                "default": "",
+                "info": "Icon to show at end of itinerary. (Optional)",
+                "group": "",
+                "localize": false,
+                "options": {
+                    "options": {
+                        "envelope": "Envelope",
+                        "user": "Person",
+                        "users": "People",
+                        "briefcase": "Business",
+                        "calendar": "Calendar",
+                        "flag-checkered": "Checkered Flag",
+                        "clock": "Clock",
+                        "phone": "Phone",
+                        "money-bill-wave": "Money"
+                    }
+                },
+                "width": "1-1",
+                "lst": true,
+                "acl": []
+            },
+            {
                 "name": "start",
                 "label": "Start Description",
                 "type": "set",
