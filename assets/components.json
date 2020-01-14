@@ -1777,7 +1777,7 @@
                         "name": "icon",
                         "label": "Icon",
                         "options": {
-                            "limit": 3,
+                            "limit": 4,
                             "fields": [
                                 {
                                     "name": "name",
@@ -1807,6 +1807,33 @@
                                             "water-bottle": "Water Bottle (custom)"
                                         }
                                     }
+                                },
+                                {
+                                    "name": "description",
+                                    "type": "text",
+                                    "label": "Description"
+                                },
+                                {
+                                    "name": "color",
+                                    "type": "select",
+                                    "label": "Color",
+                                    "options": {
+                                        "options": {
+                                            "primary": "Primary",
+                                            "secondary": "Secondary",
+                                            "info": "Info (Blue)",
+                                            "success": "Success (Green)",
+                                            "warning": "Warning (Orange\/Yellow)",
+                                            "danger": "Danger (Red)",
+                                            "light": "Light Gray",
+                                            "dark": "Dark Gray"
+                                        }
+                                    }
+                                },
+                                {
+                                    "name": "ban",
+                                    "type": "boolean",
+                                    "label": "Banned"
                                 }
                             ]
                         }
