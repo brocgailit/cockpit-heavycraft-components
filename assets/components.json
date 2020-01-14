@@ -2241,7 +2241,7 @@
                 "label": "Title",
                 "type": "text",
                 "default": "",
-                "info": "Ex: \"Featured Attractions\"",
+                "info": "Ex: \"Tour Highlights\" or \"Featured Attractions\"",
                 "group": "",
                 "localize": false,
                 "options": [],
@@ -2254,11 +2254,11 @@
                 "label": "Attractions",
                 "type": "repeater",
                 "default": "",
-                "info": "Highlight a small handful of a product's main attractions.",
+                "info": "Highlight a small handful of a product's main attractions (typically three or four major attractions).",
                 "group": "",
                 "localize": false,
                 "options": {
-                    "limit": 10,
+                    "limit": 12,
                     "display": "display",
                     "field": {
                         "type": "set",
