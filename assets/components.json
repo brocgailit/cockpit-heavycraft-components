@@ -1062,14 +1062,12 @@
             {
                 "name": "images",
                 "label": "Background Image(s)",
-                "type": "image",
+                "type": "gallery",
                 "default": "",
                 "info": "",
                 "group": "Background",
                 "localize": false,
-                "options": {
-                    "multiple": true
-                },
+                "options": [],
                 "width": "1-1",
                 "lst": true,
                 "acl": []
