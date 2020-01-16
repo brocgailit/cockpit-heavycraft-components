@@ -1067,7 +1067,9 @@
                 "info": "",
                 "group": "Background",
                 "localize": false,
-                "options": [],
+                "options": {
+                    "multiple": true
+                },
                 "width": "1-1",
                 "lst": true,
                 "acl": []
