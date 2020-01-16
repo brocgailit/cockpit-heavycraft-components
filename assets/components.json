@@ -1060,8 +1060,8 @@
                 "acl": []
             },
             {
-                "name": "background",
-                "label": "Background Image",
+                "name": "images",
+                "label": "Background Image(s)",
                 "type": "asset",
                 "default": "",
                 "info": "",
