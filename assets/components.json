@@ -1062,7 +1062,7 @@
             {
                 "name": "images",
                 "label": "Background Image(s)",
-                "type": "asset",
+                "type": "image",
                 "default": "",
                 "info": "",
                 "group": "Background",
