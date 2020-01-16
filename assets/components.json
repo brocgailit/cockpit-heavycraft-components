@@ -907,10 +907,10 @@
             },
             {
                 "name": "title2",
-                "label": "title2",
+                "label": "Title (Secondary)",
                 "type": "text",
                 "default": "",
-                "info": "Title Continued (Optional)",
+                "info": "Optional",
                 "group": "",
                 "localize": false,
                 "options": [],
