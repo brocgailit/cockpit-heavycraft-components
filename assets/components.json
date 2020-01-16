@@ -2450,33 +2450,15 @@
             {
                 "name": "questions",
                 "label": "Questions",
-                "type": "repeater",
+                "type": "collectionlink",
                 "default": "",
                 "info": "",
                 "group": "",
                 "localize": false,
                 "options": {
-                    "display": "display",
-                    "field": {
-                        "type": "set",
-                        "name": "question",
-                        "label": "Question",
-                        "display": "question",
-                        "options": {
-                            "fields": [
-                                {
-                                    "type": "text",
-                                    "name": "question",
-                                    "label": "Question"
-                                },
-                                {
-                                    "type": "wysiwyg",
-                                    "name": "answer",
-                                    "label": "Answer"
-                                }
-                            ]
-                        }
-                    }
+                    "link": "faq",
+                    "multiple": "true",
+                    "display": "question"
                 },
                 "width": "1-1",
                 "lst": true,
