@@ -248,6 +248,7 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
+                                                "car": "car",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -262,6 +263,7 @@
                                                 "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
+                                                "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
                                                 "ticket-alt": "Ticket",
                                                 "water-bottle": "Water Bottle (custom)"
@@ -349,6 +351,7 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
+                                                "car": "car",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -363,6 +366,7 @@
                                                 "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
+                                                "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
                                                 "ticket-alt": "Ticket",
                                                 "water-bottle": "Water Bottle (custom)"
@@ -439,6 +443,7 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
+                                                "car": "car",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -453,6 +458,7 @@
                                                 "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
+                                                "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
                                                 "ticket-alt": "Ticket",
                                                 "water-bottle": "Water Bottle (custom)"
@@ -706,6 +712,7 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
+                                                "car": "car",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -720,6 +727,7 @@
                                                 "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
+                                                "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
                                                 "ticket-alt": "Ticket",
                                                 "water-bottle": "Water Bottle (custom)"
@@ -789,6 +797,7 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
+                                                "car": "car",
                                                 "envelope": "Envelope",
                                                 "user": "Person",
                                                 "users": "People",
@@ -803,6 +812,7 @@
                                                 "puzzle-piece": "Puzzle Piece",
                                                 "money-bill-wave": "Money",
                                                 "route": "Route",
+                                                "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
                                                 "ticket-alt": "Ticket",
                                                 "water-bottle": "Water Bottle (custom)"
