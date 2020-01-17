@@ -1854,6 +1854,7 @@
                                     "options": {
                                         "options": {
                                             "award": "Award",
+                                            "car": "car",
                                             "envelope": "Envelope",
                                             "user": "Person",
                                             "users": "People",
@@ -1863,6 +1864,7 @@
                                             "flag-checkered": "Checkered Flag",
                                             "clock": "Clock",
                                             "hard-hat": "Helmet",
+                                            "hotel": "Hotel",
                                             "phone": "Phone",
                                             "puzzle-piece": "Puzzle Piece",
                                             "money-bill-wave": "Money",
@@ -2094,6 +2096,7 @@
                 "options": {
                     "options": {
                         "award": "Award",
+                        "car": "car",
                         "envelope": "Envelope",
                         "user": "Person",
                         "users": "People",
@@ -2103,10 +2106,12 @@
                         "flag-checkered": "Checkered Flag",
                         "clock": "Clock",
                         "hard-hat": "Helmet",
+                        "hotel": "Hotel",
                         "phone": "Phone",
                         "puzzle-piece": "Puzzle Piece",
                         "money-bill-wave": "Money",
                         "route": "Route",
+                        "segway": "Segway",
                         "shemagh": "Shemagh Face Covering (custom)",
                         "ticket-alt": "Ticket",
                         "water-bottle": "Water Bottle (custom)"
@@ -2157,6 +2162,7 @@
                             "options": {
                                 "options": {
                                     "award": "Award",
+                                    "car": "car",
                                     "envelope": "Envelope",
                                     "user": "Person",
                                     "users": "People",
@@ -2166,10 +2172,12 @@
                                     "flag-checkered": "Checkered Flag",
                                     "clock": "Clock",
                                     "hard-hat": "Helmet",
+                                    "hotel": "Hotel",
                                     "phone": "Phone",
                                     "puzzle-piece": "Puzzle Piece",
                                     "money-bill-wave": "Money",
                                     "route": "Route",
+                                    "segway": "Segway",
                                     "shemagh": "Shemagh Face Covering (custom)",
                                     "ticket-alt": "Ticket",
                                     "water-bottle": "Water Bottle (custom)"
@@ -2224,6 +2232,7 @@
                             "options": {
                                 "options": {
                                     "award": "Award",
+                                    "car": "car",
                                     "envelope": "Envelope",
                                     "user": "Person",
                                     "users": "People",
@@ -2233,10 +2242,12 @@
                                     "flag-checkered": "Checkered Flag",
                                     "clock": "Clock",
                                     "hard-hat": "Helmet",
+                                    "hotel": "Hotel",
                                     "phone": "Phone",
                                     "puzzle-piece": "Puzzle Piece",
                                     "money-bill-wave": "Money",
                                     "route": "Route",
+                                    "segway": "Segway",
                                     "shemagh": "Shemagh Face Covering (custom)",
                                     "ticket-alt": "Ticket",
                                     "water-bottle": "Water Bottle (custom)"
