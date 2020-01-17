@@ -1860,7 +1860,7 @@
                                 },
                                 {
                                     "name": "description",
-                                    "type": "text",
+                                    "type": "textarea",
                                     "label": "Description"
                                 },
                                 {
