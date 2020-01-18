@@ -248,25 +248,29 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
-                                                "car": "car",
-                                                "envelope": "Envelope",
-                                                "user": "Person",
-                                                "users": "People",
+                                                "battery-bolt": "Battery (Bolt/Charge)",
+                                                "blanket": "Blanket/Towel",
                                                 "briefcase": "Business",
-                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
-                                                "flag-checkered": "Checkered Flag",
+                                                "camera-retro": "Camera",
+                                                "car": "Car",
                                                 "clock": "Clock",
+                                                "envelope": "Envelope",
+                                                "flag-checkered": "Flag (Checkered)",
                                                 "hard-hat": "Helmet",
                                                 "hotel": "Hotel",
+                                                "money-bill-wave": "Money",
                                                 "phone": "Phone",
                                                 "puzzle-piece": "Puzzle Piece",
-                                                "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
+                                                "swimmer": "Swimmer",
                                                 "ticket-alt": "Ticket",
-                                                "water-bottle": "Water Bottle (custom)"
+                                                "user": "User/Person",
+                                                "users": "Users/People",
+                                                "water-bottle": "Water Bottle (custom)",
+                                                "wifi": "wifi"
                                             }
                                         }
                                     }
@@ -351,25 +355,29 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
-                                                "car": "car",
-                                                "envelope": "Envelope",
-                                                "user": "Person",
-                                                "users": "People",
+                                                "battery-bolt": "Battery (Bolt/Charge)",
+                                                "blanket": "Blanket/Towel",
                                                 "briefcase": "Business",
-                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
-                                                "flag-checkered": "Checkered Flag",
+                                                "camera-retro": "Camera",
+                                                "car": "Car",
                                                 "clock": "Clock",
+                                                "envelope": "Envelope",
+                                                "flag-checkered": "Flag (Checkered)",
                                                 "hard-hat": "Helmet",
                                                 "hotel": "Hotel",
+                                                "money-bill-wave": "Money",
                                                 "phone": "Phone",
                                                 "puzzle-piece": "Puzzle Piece",
-                                                "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
+                                                "swimmer": "Swimmer",
                                                 "ticket-alt": "Ticket",
-                                                "water-bottle": "Water Bottle (custom)"
+                                                "user": "User/Person",
+                                                "users": "Users/People",
+                                                "water-bottle": "Water Bottle (custom)",
+                                                "wifi": "wifi"
                                             }
                                         }
                                     }
@@ -443,25 +451,29 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
-                                                "car": "car",
-                                                "envelope": "Envelope",
-                                                "user": "Person",
-                                                "users": "People",
+                                                "battery-bolt": "Battery (Bolt/Charge)",
+                                                "blanket": "Blanket/Towel",
                                                 "briefcase": "Business",
-                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
-                                                "flag-checkered": "Checkered Flag",
+                                                "camera-retro": "Camera",
+                                                "car": "Car",
                                                 "clock": "Clock",
+                                                "envelope": "Envelope",
+                                                "flag-checkered": "Flag (Checkered)",
                                                 "hard-hat": "Helmet",
                                                 "hotel": "Hotel",
+                                                "money-bill-wave": "Money",
                                                 "phone": "Phone",
                                                 "puzzle-piece": "Puzzle Piece",
-                                                "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
+                                                "swimmer": "Swimmer",
                                                 "ticket-alt": "Ticket",
-                                                "water-bottle": "Water Bottle (custom)"
+                                                "user": "User/Person",
+                                                "users": "Users/People",
+                                                "water-bottle": "Water Bottle (custom)",
+                                                "wifi": "wifi"
                                             }
                                         }
                                     },
@@ -712,25 +724,29 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
-                                                "car": "car",
-                                                "envelope": "Envelope",
-                                                "user": "Person",
-                                                "users": "People",
+                                                "battery-bolt": "Battery (Bolt/Charge)",
+                                                "blanket": "Blanket/Towel",
                                                 "briefcase": "Business",
-                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
-                                                "flag-checkered": "Checkered Flag",
+                                                "camera-retro": "Camera",
+                                                "car": "Car",
                                                 "clock": "Clock",
+                                                "envelope": "Envelope",
+                                                "flag-checkered": "Flag (Checkered)",
                                                 "hard-hat": "Helmet",
                                                 "hotel": "Hotel",
+                                                "money-bill-wave": "Money",
                                                 "phone": "Phone",
                                                 "puzzle-piece": "Puzzle Piece",
-                                                "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
+                                                "swimmer": "Swimmer",
                                                 "ticket-alt": "Ticket",
-                                                "water-bottle": "Water Bottle (custom)"
+                                                "user": "User/Person",
+                                                "users": "Users/People",
+                                                "water-bottle": "Water Bottle (custom)",
+                                                "wifi": "wifi"
                                             }
                                         }
                                     }
@@ -797,25 +813,29 @@
                                         "options": {
                                             "options": {
                                                 "award": "Award",
-                                                "car": "car",
-                                                "envelope": "Envelope",
-                                                "user": "Person",
-                                                "users": "People",
+                                                "battery-bolt": "Battery (Bolt/Charge)",
+                                                "blanket": "Blanket/Towel",
                                                 "briefcase": "Business",
-                                                "camera-retro": "Camera",
                                                 "calendar": "Calendar",
-                                                "flag-checkered": "Checkered Flag",
+                                                "camera-retro": "Camera",
+                                                "car": "Car",
                                                 "clock": "Clock",
+                                                "envelope": "Envelope",
+                                                "flag-checkered": "Flag (Checkered)",
                                                 "hard-hat": "Helmet",
                                                 "hotel": "Hotel",
+                                                "money-bill-wave": "Money",
                                                 "phone": "Phone",
                                                 "puzzle-piece": "Puzzle Piece",
-                                                "money-bill-wave": "Money",
                                                 "route": "Route",
                                                 "segway": "Segway",
                                                 "shemagh": "Shemagh Face Covering (custom)",
+                                                "swimmer": "Swimmer",
                                                 "ticket-alt": "Ticket",
-                                                "water-bottle": "Water Bottle (custom)"
+                                                "user": "User/Person",
+                                                "users": "Users/People",
+                                                "water-bottle": "Water Bottle (custom)",
+                                                "wifi": "wifi"
                                             }
                                         }
                                     }
@@ -1854,24 +1874,28 @@
                                     "options": {
                                         "options": {
                                             "award": "Award",
-                                            "car": "car",
-                                            "envelope": "Envelope",
-                                            "user": "Person",
-                                            "users": "People",
+                                            "battery-bolt": "Battery (Bolt/Charge)",
+                                            "blanket": "Blanket/Towel",
                                             "briefcase": "Business",
-                                            "camera-retro": "Camera",
                                             "calendar": "Calendar",
-                                            "flag-checkered": "Checkered Flag",
+                                            "camera-retro": "Camera",
+                                            "car": "Car",
                                             "clock": "Clock",
+                                            "envelope": "Envelope",
+                                            "flag-checkered": "Checkered Flag",
                                             "hard-hat": "Helmet",
                                             "hotel": "Hotel",
+                                            "money-bill-wave": "Money",
                                             "phone": "Phone",
                                             "puzzle-piece": "Puzzle Piece",
-                                            "money-bill-wave": "Money",
                                             "route": "Route",
                                             "shemagh": "Shemagh Face Covering (custom)",
+                                            "swimmer": "Swimmer",
                                             "ticket-alt": "Ticket",
-                                            "water-bottle": "Water Bottle (custom)"
+                                            "user": "User/Person",
+                                            "users": "Users/People",
+                                            "water-bottle": "Water Bottle (custom)",
+                                            "wifi": "wifi"
                                         }
                                     }
                                 },
@@ -2096,25 +2120,29 @@
                 "options": {
                     "options": {
                         "award": "Award",
-                        "car": "car",
-                        "envelope": "Envelope",
-                        "user": "Person",
-                        "users": "People",
+                        "battery-bolt": "Battery (Bolt/Charge)",
+                        "blanket": "Blanket/Towel",
                         "briefcase": "Business",
-                        "camera-retro": "Camera",
                         "calendar": "Calendar",
-                        "flag-checkered": "Checkered Flag",
+                        "camera-retro": "Camera",
+                        "car": "Car",
                         "clock": "Clock",
+                        "envelope": "Envelope",
+                        "flag-checkered": "Flag (Checkered)",
                         "hard-hat": "Helmet",
                         "hotel": "Hotel",
+                        "money-bill-wave": "Money",
                         "phone": "Phone",
                         "puzzle-piece": "Puzzle Piece",
-                        "money-bill-wave": "Money",
                         "route": "Route",
                         "segway": "Segway",
                         "shemagh": "Shemagh Face Covering (custom)",
+                        "swimmer": "Swimmer",
                         "ticket-alt": "Ticket",
-                        "water-bottle": "Water Bottle (custom)"
+                        "user": "User/Person",
+                        "users": "Users/People",
+                        "water-bottle": "Water Bottle (custom)",
+                        "wifi": "wifi"
                     }
                 },
                 "width": "1-1",
@@ -2162,25 +2190,29 @@
                             "options": {
                                 "options": {
                                     "award": "Award",
-                                    "car": "car",
-                                    "envelope": "Envelope",
-                                    "user": "Person",
-                                    "users": "People",
+                                    "battery-bolt": "Battery (Bolt/Charge)",
+                                    "blanket": "Blanket/Towel",
                                     "briefcase": "Business",
-                                    "camera-retro": "Camera",
                                     "calendar": "Calendar",
-                                    "flag-checkered": "Checkered Flag",
+                                    "camera-retro": "Camera",
+                                    "car": "Car",
                                     "clock": "Clock",
+                                    "envelope": "Envelope",
+                                    "flag-checkered": "Flag (Checkered)",
                                     "hard-hat": "Helmet",
                                     "hotel": "Hotel",
+                                    "money-bill-wave": "Money",
                                     "phone": "Phone",
                                     "puzzle-piece": "Puzzle Piece",
-                                    "money-bill-wave": "Money",
                                     "route": "Route",
                                     "segway": "Segway",
                                     "shemagh": "Shemagh Face Covering (custom)",
+                                    "swimmer": "Swimmer",
                                     "ticket-alt": "Ticket",
-                                    "water-bottle": "Water Bottle (custom)"
+                                    "user": "User/Person",
+                                    "users": "Users/People",
+                                    "water-bottle": "Water Bottle (custom)",
+                                    "wifi": "wifi"
                                 }
                             }
                         }
@@ -2232,25 +2264,29 @@
                             "options": {
                                 "options": {
                                     "award": "Award",
-                                    "car": "car",
-                                    "envelope": "Envelope",
-                                    "user": "Person",
-                                    "users": "People",
+                                    "battery-bolt": "Battery (Bolt/Charge)",
+                                    "blanket": "Blanket/Towel",
                                     "briefcase": "Business",
-                                    "camera-retro": "Camera",
                                     "calendar": "Calendar",
-                                    "flag-checkered": "Checkered Flag",
+                                    "camera-retro": "Camera",
+                                    "car": "Car",
                                     "clock": "Clock",
+                                    "envelope": "Envelope",
+                                    "flag-checkered": "Flag (Checkered)",
                                     "hard-hat": "Helmet",
                                     "hotel": "Hotel",
+                                    "money-bill-wave": "Money",
                                     "phone": "Phone",
                                     "puzzle-piece": "Puzzle Piece",
-                                    "money-bill-wave": "Money",
                                     "route": "Route",
                                     "segway": "Segway",
                                     "shemagh": "Shemagh Face Covering (custom)",
+                                    "swimmer": "Swimmer",
                                     "ticket-alt": "Ticket",
-                                    "water-bottle": "Water Bottle (custom)"
+                                    "user": "User/Person",
+                                    "users": "Users/People",
+                                    "water-bottle": "Water Bottle (custom)",
+                                    "wifi": "wifi"
                                 }
                             }
                         }
