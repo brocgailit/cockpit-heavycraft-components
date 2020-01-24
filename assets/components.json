@@ -1247,7 +1247,7 @@
                 "label": "Icon",
                 "type": "select",
                 "default": "",
-                "info": "Icon to show at end of itinerary. (Optional)",
+                "info": "Icon to show on map marker (Optional)",
                 "group": "",
                 "localize": false,
                 "options": {
