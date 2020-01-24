@@ -1492,9 +1492,10 @@
                 "group": "Options",
                 "localize": false,
                 "options": {
+                    "default": "full",
                     "options": {
-                        "list": "List",
-                        "card": "Card"
+                        "compact": "Compact",
+                        "full": "Full"
                     },
                     "default": "card"
                 },
