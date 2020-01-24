@@ -1238,6 +1238,49 @@
                 "required": true
             },
             {
+                "name": "icon",
+                "label": "Icon",
+                "type": "select",
+                "options": {
+                    "fields": [
+                        {
+                            "type": "text",
+                            "name": "name",
+                            "label": "Name"
+                        },
+                        {
+                            "type": "asset",
+                            "name": "icon",
+                            "label": "Icon"
+                        },
+                        {
+                            "type": "text",
+                            "name": "description",
+                            "label": "Description"
+                        },
+                        {
+                            "type": "set",
+                            "name": "action",
+                            "label": "Action",
+                            "options": {
+                                "fields": [
+                                    {
+                                        "type": "text",
+                                        "name": "label",
+                                        "label": "Label"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "name": "path",
+                                        "label": "Path"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
                 "name": "showMap",
                 "label": "Show Map",
                 "type": "boolean",
