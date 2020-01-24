@@ -1235,7 +1235,8 @@
                 "localize": false,
                 "options": {
                     "link": "organizations",
-                    "display": "name"
+                    "display": "name",
+                    "multiple": true
                 },
                 "width": "1-1",
                 "lst": true,
