@@ -1298,6 +1298,20 @@
                 "lst": true,
                 "acl": [],
                 "required": false
+            },
+            {
+                "name": "showCountry",
+                "label": "Show Country Name",
+                "type": "boolean",
+                "default": "",
+                "info": "",
+                "group": "",
+                "localize": false,
+                "options": [],
+                "width": "1-1",
+                "lst": true,
+                "acl": [],
+                "required": false
             }
         ],
         "group": "EAT"
