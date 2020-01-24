@@ -1496,8 +1496,7 @@
                     "options": {
                         "compact": "Compact",
                         "full": "Full"
-                    },
-                    "default": "card"
+                    }
                 },
                 "width": "1-2",
                 "lst": true,
