@@ -1451,25 +1451,12 @@
                 "acl": []
             },
             {
-                "name": "showTop",
-                "label": "Show Top-level Items",
-                "type": "boolean",
-                "default": "",
-                "info": "",
-                "group": "",
-                "localize": false,
-                "options": [],
-                "width": "1-1",
-                "lst": true,
-                "acl": []
-            },
-            {
                 "name": "direction",
                 "label": "Direction",
                 "type": "select",
                 "default": "",
                 "info": "",
-                "group": "",
+                "group": "Options",
                 "localize": false,
                 "options": {
                     "options": {
@@ -1479,6 +1466,38 @@
                     "default": "vertical"
                 },
                 "width": "1-1",
+                "lst": true,
+                "acl": []
+            },
+            {
+                "name": "showTop",
+                "label": "Show Top-level Items",
+                "type": "boolean",
+                "default": "",
+                "info": "",
+                "group": "Options",
+                "localize": false,
+                "options": [],
+                "width": "1-2",
+                "lst": true,
+                "acl": []
+            },
+            {
+                "name": "mode",
+                "label": "Display Mode",
+                "type": "boolean",
+                "default": "card",
+                "info": "",
+                "group": "Options",
+                "localize": false,
+                "options": {
+                    "options": {
+                        "list": "List",
+                        "card": "Card"
+                    },
+                    "default": "vertical"
+                },
+                "width": "1-2",
                 "lst": true,
                 "acl": []
             }
