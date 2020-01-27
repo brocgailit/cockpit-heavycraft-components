@@ -113,7 +113,7 @@
                 "localize": false,
                 "options": {
                     "link": "forms",
-                    "multiple": false
+                    "display": "name"
                 },
                 "width": "1-2",
                 "lst": true,
