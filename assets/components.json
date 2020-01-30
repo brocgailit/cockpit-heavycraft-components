@@ -1255,6 +1255,19 @@
                 "width": "1-1",
                 "lst": true,
                 "acl": []
+            },
+            {
+                "name": "content",
+                "label": "Content",
+                "type": "wysiwyg",
+                "default": "",
+                "info": "",
+                "group": "Additional Information",
+                "localize": false,
+                "options": {},
+                "width": "1-1",
+                "lst": true,
+                "acl": []
             }
         ],
         "group": "Products"
