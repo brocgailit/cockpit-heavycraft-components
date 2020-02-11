@@ -1958,6 +1958,23 @@
                 "acl": []
             },
             {
+                "name": "markers",
+                "label": "Markers",
+                "type": "collectionlink",
+                "default": "",
+                "info": "",
+                "group": "Markers",
+                "localize": false,
+                "options": {
+                    "link": "organization",
+                    "display": "name",
+                    "multiple": true
+                },
+                "width": "1-1",
+                "lst": true,
+                "acl": []
+            },
+            {
                 "name": "routeIcon",
                 "label": "Route Icon",
                 "type": "asset",
