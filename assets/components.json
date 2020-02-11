@@ -1966,7 +1966,7 @@
                 "group": "Markers",
                 "localize": false,
                 "options": {
-                    "link": "organization",
+                    "link": "organizations",
                     "display": "name",
                     "multiple": true
                 },
